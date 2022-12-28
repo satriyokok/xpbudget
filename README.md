@@ -13,3 +13,7 @@ Maka komponen nya adalah :
 4. Narasumber / pengajar / trainer.
 5. Rundown acara.
 6. Tempat acara.
+
+Gambaran dari algoritma xpbudget adalah sebagaimana
+file xpbudget.ppt
+Disitu bbrp gambaran utk tampilan dan isian sdh tergambar.
